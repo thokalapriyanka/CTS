@@ -75,7 +75,7 @@
   <configuration>
 	<archive>
 	<manifest>
-		<mainClass>projectname.App</mainClass>
+		<mainClass>cts.App</mainClass>
 	</manifest>
 	</archive>
   </configuration>       
